@@ -3,6 +3,13 @@ body {
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+    color: navy;
+    margin-left: 20px;
+    font-family: monospace;
+    align-content: center;
+}
+
+p{
+color: brown;
+align-content: center
 }

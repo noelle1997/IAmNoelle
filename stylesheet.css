@@ -3,13 +3,21 @@ body {
 }
 
 h1 {
-    color: navy;
-    margin-left: 20px;
-    font-family: monospace;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: darkcyan;
+    font-family: "Arial Black", Gadget, sans-serif;
     align-content: center;
 }
 
 p{
-color: brown;
-align-content: center
+padding-left: 200px;
+padding-right: 200px;
+color: cadetblue;
+align-content: center;
+font-family: "Arial Black", sans-serif;
 }
+a:link {
+  color: cadetblue; 
+  background-color: transparent; 
+  text-decoration: none;
